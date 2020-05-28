@@ -6,3 +6,5 @@ Git Hub test.
 AAA
 Creating a new branch is quick.
 CCC
+BBB
+DDD
